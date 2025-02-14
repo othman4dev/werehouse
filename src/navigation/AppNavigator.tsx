@@ -97,7 +97,7 @@ export const AppNavigator = () => {
             name="ProductDetails" 
             component={ProductDetailsScreen}
             options={{
-              headerTitle: 'Products Details',
+              headerTitle: 'Détails du produit',
               headerBackTitle: 'Retour',
               headerTransparent: true,
               headerBackground: () => (
