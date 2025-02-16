@@ -1,0 +1,250 @@
+{
+  "products": [
+    {
+      "name": "MacBook Pro 16 M2",
+      "barcode": "9876543210123",
+      "price": 26000,
+      "type": "Informatique",
+      "supplier": "Apple",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fstockyfy-8654694f-930d-4fd1-ac09-ee87c7b7cb29/ImagePicker/d52ccd43-6b72-4ac9-8250-542e13a784c5.jpeg",
+      "stocks": [
+        {
+          "id": 1739727587559,
+          "name": "Gueliz B2",
+          "quantity": 10,
+          "localisation": {
+            "city": "Marrakesh",
+            "latitude": 0,
+            "longitude": 0
+          }
+        }
+      ],
+      "editedBy": [
+        {
+          "warehousemanId": "1444",
+          "at": "2025-02-16"
+        }
+      ],
+      "id": "4"
+    },
+    {
+      "name": "Samsung Galaxy S24 Ultra hh",
+      "barcode": "6549873210123",
+      "price": 14500,
+      "type": "Smartphone",
+      "supplier": "Samsung",
+      "description": "",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fstockyfy-8654694f-930d-4fd1-ac09-ee87c7b7cb29/ImagePicker/e9fb9774-f5a2-4bee-8ccf-a443f7ffa179.jpeg",
+      "stocks": [
+        {
+          "id": "3001",
+          "name": "Centre Ville A1",
+          "quantity": 75,
+          "localisation": {
+            "city": "Casablanca",
+            "latitude": 33.573109,
+            "longitude": -7.589843
+          }
+        }
+      ],
+      "editedBy": [
+        {
+          "warehousemanId": "1444",
+          "at": "2025-02-13"
+        }
+      ],
+      "id": "5"
+    },
+    {
+      "name": "iPhone 15 Pro Max",
+      "barcode": "7539514862001",
+      "price": 15000,
+      "type": "Smartphone",
+      "supplier": "Apple",
+      "minQuantity": 0,
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fstockyfy-8654694f-930d-4fd1-ac09-ee87c7b7cb29/ImagePicker/cd59ec31-f2a5-40f0-973b-c9ddbf1593af.jpeg",
+      "stocks": [
+        {
+          "id": 1739742494561,
+          "name": "Gueliz B2",
+          "quantity": 25,
+          "localisation": {
+            "city": "Marrakesh",
+            "latitude": 0,
+            "longitude": 0
+          }
+        }
+      ],
+      "editedBy": [
+        {
+          "warehousemanId": "1444",
+          "at": "2025-02-16"
+        }
+      ],
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "name": "Dell XPS 15",
+      "type": "Informatique",
+      "barcode": "9517536482002",
+      "price": 18000,
+      "supplier": "Dell",
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-9520/media-gallery/black/laptop-xps-15-9520-t-black-gallery-1.psd?fmt=png-alpha",
+      "stocks": [
+        {
+          "id": 2991,
+          "name": "Lazari H2",
+          "quantity": 12,
+          "localisation": {
+            "city": "Oujda",
+            "latitude": 34.689404,
+            "longitude": -1.912823
+          }
+        }
+      ],
+      "editedBy": [
+        {
+          "warehousemanId": "1444",
+          "at": "2024-02-14"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Samsung 65\" QLED 4K",
+      "type": "TV",
+      "barcode": "3571598426003",
+      "price": 12000,
+      "supplier": "Samsung",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/n_africa/qe65q60cauxtk/gallery/n-africa-qled-q60c-qe65q60cauxtk-536846379",
+      "stocks": [
+        {
+          "id": 1999,
+          "name": "Gueliz B2",
+          "quantity": 8,
+          "localisation": {
+            "city": "Marrakesh",
+            "latitude": 31.628674,
+            "longitude": -7.992047
+          }
+        }
+      ],
+      "editedBy": [
+        {
+          "warehousemanId": "1333",
+          "at": "2024-02-14"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "iPad Pro 12.9",
+      "type": "Tablette",
+      "barcode": "8524697133004",
+      "price": 13000,
+      "supplier": "Apple",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-12-11-select-202210",
+      "stocks": [
+        {
+          "id": 2991,
+          "name": "Lazari H2",
+          "quantity": 15,
+          "localisation": {
+            "city": "Oujda",
+            "latitude": 34.689404,
+            "longitude": -1.912823
+          }
+        }
+      ],
+      "editedBy": [
+        {
+          "warehousemanId": "1444",
+          "at": "2024-02-14"
+        }
+      ]
+    },
+    {
+      "name": "9r3a dyal lma",
+      "barcode": "6111035001673",
+      "price": 3,
+      "type": "Lma",
+      "supplier": "Sidi ali",
+      "minQuantity": 100,
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fstockyfy-8654694f-930d-4fd1-ac09-ee87c7b7cb29/ImagePicker/33ef9b02-1ad2-422e-aae3-215960658b6b.jpeg",
+      "stocks": [
+        {
+          "id": 1739729494389,
+          "name": "Tata",
+          "quantity": 120,
+          "localisation": {
+            "city": "Marrakesh",
+            "latitude": 0,
+            "longitude": 0
+          }
+        }
+      ],
+      "editedBy": [
+        {
+          "warehousemanId": "1444",
+          "at": "2025-02-16"
+        }
+      ],
+      "id": "74ce"
+    },
+    {
+      "name": "Jdid",
+      "barcode": "5901234123457",
+      "price": 90,
+      "type": "Tabj",
+      "supplier": "Hdjdh",
+      "minQuantity": 0,
+      "image": null,
+      "stocks": [
+        {
+          "id": 1739742452943,
+          "name": "Bxjsk",
+          "quantity": 900,
+          "localisation": {
+            "city": "Marrakesh",
+            "latitude": 0,
+            "longitude": 0
+          }
+        }
+      ],
+      "editedBy": [
+        {
+          "warehousemanId": "1444",
+          "at": "2025-02-16"
+        }
+      ],
+      "id": "e565"
+    }
+  ],
+  "warehousemans": [
+    {
+      "id": "1333",
+      "name": "Amine Boutaleb",
+      "dob": "1988-05-02",
+      "city": "Oujda",
+      "secretKey": "AH90907J",
+      "warehouseId": 1999
+    },
+    {
+      "id": "1444",
+      "name": "Karim El Mansouri",
+      "dob": "1990-09-15",
+      "city": "Marrakesh",
+      "secretKey": "RK189987A",
+      "warehouseId": 2991
+    }
+  ],
+  "statistics": {
+    "totalProducts": 8,
+    "outOfStock": 0,
+    "totalStockValue": 2310860,
+    "mostAddedProducts": [],
+    "mostRemovedProducts": [],
+    "lowStock": 0
+  }
+}
