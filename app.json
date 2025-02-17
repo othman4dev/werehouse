@@ -1,0 +1,61 @@
+{
+  "expo": {
+    "name": "stock-manager",
+    "slug": "stock-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "WRITE_EXTERNAL_STORAGE",
+        "READ_EXTERNAL_STORAGE",
+        "DOWNLOAD_WITHOUT_NOTIFICATION",
+        "NOTIFICATIONS",
+        "MEDIA_LIBRARY",
+        "MEDIA_LIBRARY_WRITE_ONLY"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "votre-project-id"
+      }
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "L'application nécessite l'accès à la caméra pour scanner les codes-barres."
+        }
+      ],
+      [
+        "expo-barcode-scanner",
+        {
+          "cameraPermission": "L'application nécessite l'accès à la caméra pour scanner les codes-barres."
+        }
+      ],
+      [
+        "expo-network",
+        {
+          "localNetworkPermission": "Permet à l'application d'accéder au réseau local"
+        }
+      ]
+    ]
+  }
+}
